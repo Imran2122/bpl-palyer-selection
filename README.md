@@ -96,6 +96,16 @@ This is a beginner-friendly React project demonstrating:
 
 ---
 
-### 👨‍💻 Developed By
-Imran Hossain
-netlify Link:cheery-narwhal-75ec8c.netlify.app
+## 🌍 Live Website
+
+🚀 **Live Link:**  
+👉 https://cheery-narwhal-75ec8c.netlify.app
+
+This project is successfully deployed on **Netlify**.
+
+---
+
+## 👨‍💻 Developer
+
+**Imran Hossain**  
+Front-End React Developer  
